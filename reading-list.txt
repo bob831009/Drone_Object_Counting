@@ -1,0 +1,26 @@
+[Basic building blocks: Image recognition with CNN]
+
+ImageNet Classification with Deep Convolutional Neural Network (AlexNet)
+http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+
+Visualizing and Understanding Convolutional Networks: (Ziller Net)
+http://www.matthewzeiler.com/pubs/arxive2013/arxive2013.pdf
+
+Network in Network (NIN):
+http://arxiv.org/abs/1312.4400
+
+Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG)
+http://arxiv.org/pdf/1409.1556.pdf
+
+Going Deeper with Convolutions (GoogLeNet)
+http://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf
+
+[Object Detection framework]
+Rich feature hierarchies for accurate object detection and semantic segmentation (RCNN)
+https://www.cs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf
+
+Fast R-CNN
+http://arxiv.org/abs/1504.08083
+
+Faster R-CNN
+http://arxiv.org/abs/1506.01497
